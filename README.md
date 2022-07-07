@@ -1,10 +1,10 @@
 # Olá, me chamo Camila Fernandes. Esse é um perfil corporativo:
  
-⚙EMPRESA: COPEL Geração e Transmissão S.A.
+🟧EMPRESA: COPEL Geração e Transmissão S.A.
 
-⚙SETOR: Coordenação de Planejamento de Projetos e Comercialização de Energia - GET/CPPC 
+🟧SETOR: Coordenação de Planejamento de Projetos e Comercialização de Energia - GET/CPPC 
 
-⚙CARGO: Estagiária 
+🟧CARGO: Estagiária 
 
 <div align="center">
   <a href="https://github.com/camilacopel">
@@ -22,10 +22,8 @@
   <img align="center" alt="Camis-NumPy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
   <img align="center" alt="Camis-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Camis-MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Camis-Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-  <img align="center" alt="Camis-Trello" height="50" width="50" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+  <img align="center" alt="Camis-Trello" height="50" width="90" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 
-  https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
 
  </div>
       
