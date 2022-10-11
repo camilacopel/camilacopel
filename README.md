@@ -1,10 +1,10 @@
-# Olá, me chamo Camila Fernandes. Esse é um perfil corporativo:
+# Olá, me chamo Camila Fernandes.
  
 🟧EMPRESA: COPEL Geração e Transmissão S.A.
 
 🟧SETOR: Coordenação de Planejamento de Projetos e Comercialização de Energia - GET/CPPC 
 
-🟧CARGO: Estagiária 
+🟧CARGO: Estagiária em Data Science e Engenharia
 
 <div align="center">
   <a href="https://github.com/camilacopel">
